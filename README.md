@@ -26,3 +26,9 @@ Motivated front-end developer with a strong desire to learn and take on new chal
 <a href="http://www.github.com/Ali-jalili"><img src="https://github-readme-stats.vercel.app/api?username=Ali-jalili&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=312e81&hide_border=true&show_icons=true" alt="Ali-jalili's GitHub stats" /></a>
 
 <a href="http://www.github.com/Ali-jalili"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-jalili&stroke=ffffff&background=312e81&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
