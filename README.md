@@ -1,36 +1,45 @@
-# 👋 Hi, I'm Ali Jalili
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+JavaScript+Developer;Building+Real+World+Applications;Learning+Every+Day+🚀" />
+# 👋 Hey, I'm Ali
 
-<br/>
+### Frontend Developer building things with React ⚛️
 
-<p>
-  <a href="https://github.com/Ali-jalili">
-    <img src="https://img.shields.io/github/followers/Ali-jalili?style=for-the-badge&logo=github&label=Followers"/>
-  </a>
-  <a href="https://github.com/Ali-jalili?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-30-blue?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=I+turn+ideas+into+applications;I+solve+problems+through+code;Always+learning%2C+always+building" />
+
+<br><br>
+
+<a href="https://github.com/Ali-jalili">
+<img src="https://img.shields.io/github/followers/Ali-jalili?style=flat-square"/>
+</a>
+
+<a href="mailto:frontendforce.developer78@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square"/>
+</a>
 
 </div>
 
 
 ---
 
-## 🧑‍💻 About Me
+## 🧩 About Me
 
 ```javascript
-const ali = {
-  role: "Frontend Developer",
-  stack: [
-    "React",
-    "JavaScript",
-    "Tailwind CSS",
-    "Supabase"
-  ],
-  mindset: "Learn → Build → Debug → Improve",
-  currently: "Growing as a software engineer"
-};
+class Developer {
+
+  constructor() {
+    this.name = "Ali Jalili";
+    this.role = "Frontend Developer";
+    this.location = "Iran 🇮🇷";
+  }
+
+  mindset() {
+    return [
+      "Understand the problem",
+      "Build the solution",
+      "Debug the unexpected",
+      "Improve every iteration"
+    ];
+  }
+}
