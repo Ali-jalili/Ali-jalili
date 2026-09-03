@@ -1,51 +1,92 @@
 <div align="center">
 
-# 👋 Hey, I'm Ali
+# 👋 Hi, I'm Ali
 
-### Frontend Developer crafting real-world applications with React & TypeScript ⚛️
+## Frontend Developer building products with React ⚛️
 
-<br>
+I enjoy turning complex problems into simple,
+maintainable user experiences.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Building+scalable+frontend+experiences;Turning+ideas+into+functional+products;Exploring+clean+architecture+and+better+solutions" />
+<br/>
 
-<br><br>
+React • TypeScript • React Query • Supabase
 
-<a href="https://github.com/Ali-jalili">
-<img src="https://img.shields.io/github/followers/Ali-jalili?style=flat-square"/>
-</a>
+<br/>
 
-<a href="mailto:frontendforce.developer78@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square"/>
-</a>
+[LinkedIn] • [Portfolio] • [Email]
 
 </div>
 
 
 ---
 
-## 🧩 About Me
+## 🧠 My Engineering Mindset
 
-```javascript
-class Developer {
+I don't just build interfaces.
 
-  constructor() {
-    this.name = "Ali Jalili";
-    this.role = "Frontend Developer";
-    this.stack = [
-      "React",
-      "TypeScript",
-      "JavaScript",
-      "React Query",
-      "Supabase"
-    ];
-  }
+I focus on:
 
-  approach() {
-    return [
-      "Understand the problem",
-      "Design before coding",
-      "Build maintainable solutions",
-      "Debug and improve continuously"
-    ];
-  }
-}
+- Understanding the problem before coding
+- Designing clean data flow
+- Building reusable components
+- Debugging and improving continuously
+
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+React  
+TypeScript  
+JavaScript  
+Tailwind CSS  
+
+### Data & Backend
+TanStack Query  
+Supabase  
+PostgreSQL  
+
+
+---
+
+## 🚀 Featured Projects
+
+### DevDesk
+Developer workflow workspace
+
+A React + TypeScript application focused on
+clean architecture, API workflows and data management.
+
+
+### FormFlow
+Dynamic form builder platform
+
+A complex UI system with reusable components,
+state management and form logic.
+
+
+### NexusOS
+Agency management platform
+
+A full-stack application with authentication,
+database integration and business workflows.
+
+
+---
+
+## 📈 Currently Improving
+
+- Advanced TypeScript patterns
+- Frontend architecture
+- Testing strategies
+- Building production-ready applications
+
+
+---
+
+## 📫 Let's Connect
+
+LinkedIn  
+Portfolio  
+Email
