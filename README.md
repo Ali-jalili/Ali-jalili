@@ -2,11 +2,11 @@
 
 # 👋 Hey, I'm Ali
 
-### Frontend Developer building things with React ⚛️
+### Frontend Developer crafting real-world applications with React & TypeScript ⚛️
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=I+turn+ideas+into+applications;I+solve+problems+through+code;Always+learning%2C+always+building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Building+scalable+frontend+experiences;Turning+ideas+into+functional+products;Exploring+clean+architecture+and+better+solutions" />
 
 <br><br>
 
@@ -31,15 +31,21 @@ class Developer {
   constructor() {
     this.name = "Ali Jalili";
     this.role = "Frontend Developer";
-    this.location = "Iran 🇮🇷";
+    this.stack = [
+      "React",
+      "TypeScript",
+      "JavaScript",
+      "React Query",
+      "Supabase"
+    ];
   }
 
-  mindset() {
+  approach() {
     return [
       "Understand the problem",
-      "Build the solution",
-      "Debug the unexpected",
-      "Improve every iteration"
+      "Design before coding",
+      "Build maintainable solutions",
+      "Debug and improve continuously"
     ];
   }
 }
