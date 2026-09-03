@@ -15,11 +15,11 @@ clean architecture, scalable components, and reliable data flow.
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/ali--jalili">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"/>
 </a>
 
-<a href="mailto:frontendforce.developer78@gmail.com">
+<a href="mailto:ali.jalili.dev@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail"/>
 </a>
 
@@ -104,8 +104,4 @@ database integration, and business workflows.
 
 ---
 
-## 📫 Let's Connect
 
-LinkedIn  
-Portfolio  
-Email
