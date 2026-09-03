@@ -15,12 +15,12 @@ clean architecture, scalable components, and reliable data flow.
 
 <br/><br/>
 
-<a href="[https://linkedin.com](https://www.linkedin.com/in/ali--jalili/)/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/ali--jalili">
+  <img src="https://img.shields.io/badge/LinkedIn-Ali%20Jalili-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ali.jalili.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
