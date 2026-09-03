@@ -15,7 +15,7 @@ clean architecture, scalable components, and reliable data flow.
 
 <br/><br/>
 
-<a href="www.linkedin.com/in/ali--jalili">
+<a href="[https://linkedin.com](https://www.linkedin.com/in/ali--jalili/)/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"/>
 </a>
 
