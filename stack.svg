@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="232" viewBox="0 0 880 232" role="img" aria-label="Tech stack">
+<defs><clipPath id="clip"><rect width="880" height="232" rx="16"/></clipPath></defs>
+<rect width="880" height="232" rx="16" fill="#FAFBFF"/>
+<g clip-path="url(#clip)">
+<text x="24" y="36" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="2" fill="#64748B">LANGUAGES</text>
+<rect x="200" y="16" width="109" height="30" rx="15" fill="#F1F5FF" stroke="#CBD5E8"/><circle cx="216" cy="31" r="4.5" fill="#3178C6"/><text x="228" y="35" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#1E293B">TypeScript</text>
+<rect x="315" y="16" width="109" height="30" rx="15" fill="#F1F5FF" stroke="#CBD5E8"/><circle cx="331" cy="31" r="4.5" fill="#E0C200"/><text x="343" y="35" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#1E293B">JavaScript</text>
+<path d="M24 56H856" stroke="#E8ECF5"/>
+<text x="24" y="88" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="2" fill="#64748B">FRONTEND</text>
+<rect x="200" y="68" width="73" height="30" rx="15" fill="#F1F5FF" stroke="#CBD5E8"/><circle cx="216" cy="83" r="4.5" fill="#61DAFB"/><text x="228" y="87" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#1E293B">React</text>
+<rect x="279" y="68" width="87" height="30" rx="15" fill="#F1F5FF" stroke="#CBD5E8"/><circle cx="295" cy="83" r="4.5" fill="#0F172A"/><text x="307" y="87" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#1E293B">Next.js</text>
+<rect x="372" y="68" width="123" height="30" rx="15" fill="#F1F5FF" stroke="#CBD5E8"/><circle cx="388" cy="83" r="4.5" fill="#38BDF8"/><text x="400" y="87" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#1E293B">Tailwind CSS</text>
+<rect x="501" y="68" width="66" height="30" rx="15" fill="#F1F5FF" stroke="#CBD5E8"/><circle cx="517" cy="83" r="4.5" fill="#A78BFA"/><text x="529" y="87" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#1E293B">Vite</text>
+<rect x="573" y="68" width="123" height="30" rx="15" fill="#F1F5FF" stroke="#CBD5E8"/><circle cx="589" cy="83" r="4.5" fill="#F43F5E"/><text x="601" y="87" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#1E293B">React Router</text>
+<rect x="702" y="68" width="144" height="30" rx="15" fill="#F1F5FF" stroke="#CBD5E8"/><circle cx="718" cy="83" r="4.5" fill="#EC5990"/><text x="730" y="87" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#1E293B">React Hook Form</text>
+<path d="M24 108H856" stroke="#E8ECF5"/>
+<text x="24" y="140" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="2" fill="#64748B">BACKEND AND DATA</text>
+<rect x="200" y="120" width="94" height="30" rx="15" fill="#F1F5FF" stroke="#CBD5E8"/><circle cx="216" cy="135" r="4.5" fill="#3FCF8E"/><text x="228" y="139" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#1E293B">Supabase</text>
+<rect x="300" y="120" width="109" height="30" rx="15" fill="#F1F5FF" stroke="#CBD5E8"/><circle cx="316" cy="135" r="4.5" fill="#6B8CFF"/><text x="328" y="139" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#1E293B">PostgreSQL</text>
+<rect x="415" y="120" width="137" height="30" rx="15" fill="#F1F5FF" stroke="#CBD5E8"/><circle cx="431" cy="135" r="4.5" fill="#FF4154"/><text x="443" y="139" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#1E293B">TanStack Query</text>
+<rect x="558" y="120" width="59" height="30" rx="15" fill="#F1F5FF" stroke="#CBD5E8"/><circle cx="574" cy="135" r="4.5" fill="#6D8DFF"/><text x="586" y="139" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#1E293B">Zod</text>
+<path d="M24 160H856" stroke="#E8ECF5"/>
+<text x="24" y="192" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="2" fill="#64748B">TOOLS</text>
+<rect x="200" y="172" width="59" height="30" rx="15" fill="#F1F5FF" stroke="#CBD5E8"/><circle cx="216" cy="187" r="4.5" fill="#F05032"/><text x="228" y="191" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#1E293B">Git</text>
+<rect x="265" y="172" width="80" height="30" rx="15" fill="#F1F5FF" stroke="#CBD5E8"/><circle cx="281" cy="187" r="4.5" fill="#24292F"/><text x="293" y="191" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#1E293B">GitHub</text>
+<rect x="351" y="172" width="66" height="30" rx="15" fill="#F1F5FF" stroke="#CBD5E8"/><circle cx="367" cy="187" r="4.5" fill="#F69220"/><text x="379" y="191" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#1E293B">pnpm</text>
+<rect x="423" y="172" width="80" height="30" rx="15" fill="#F1F5FF" stroke="#CBD5E8"/><circle cx="439" cy="187" r="4.5" fill="#5E9B1A"/><text x="451" y="191" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#1E293B">Vitest</text>
+<rect x="509" y="172" width="80" height="30" rx="15" fill="#F1F5FF" stroke="#CBD5E8"/><circle cx="525" cy="187" r="4.5" fill="#8080F2"/><text x="537" y="191" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#1E293B">ESLint</text>
+<rect x="595" y="172" width="80" height="30" rx="15" fill="#F1F5FF" stroke="#CBD5E8"/><circle cx="611" cy="187" r="4.5" fill="#0F172A"/><text x="623" y="191" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#1E293B">Vercel</text>
+</g>
+<rect x="0.5" y="0.5" width="879" height="231" rx="16" fill="none" stroke="#D0D7E8"/>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="250" viewBox="0 0 430 250" role="img" aria-label="Nexus Agency OS project card">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F5F3FF"/></linearGradient>
+<filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="34"/></filter>
+<clipPath id="clip"><rect width="430" height="250" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="430" height="250" fill="url(#bg)"/>
+<circle cx="400" cy="10" r="80" fill="#7C3AED" opacity="0.3" filter="url(#blur)"><animate attributeName="opacity" values="0.15;0.3;0.15" dur="6s" repeatCount="indefinite"/></circle>
+<rect width="430" height="3" fill="url(#g)"/>
+<text x="24" y="36" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" letter-spacing="2" fill="#7C3AED">02</text>
+<path d="M390 32L406 16M394 16H406V28" fill="none" stroke="#64748B" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="24" y="74" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700" fill="#0F172A">Nexus Agency OS</text>
+<text x="24" y="100" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#475569">Agency management platform with separate</text>
+<text x="24" y="119" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#475569">portals for admins, clients and developers.</text>
+
+<path d="M24 134H406" stroke="#E2E8F0"/>
+<circle cx="29" cy="156" r="3" fill="#7C3AED"/><text x="42" y="160" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#334155">Three roles backed by Row Level Security</text>
+<circle cx="29" cy="180" r="3" fill="#7C3AED"/><text x="42" y="184" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#334155">Request lifecycle with reject and resubmit</text>
+<rect x="24" y="206" width="54" height="26" rx="13" fill="#F1F5FF" stroke="#CBD5E8"/><text x="51.0" y="223" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#1E293B">React</text>
+<rect x="84" y="206" width="111" height="26" rx="13" fill="#F1F5FF" stroke="#CBD5E8"/><text x="139.5" y="223" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#1E293B">TanStack Query</text>
+<rect x="201" y="206" width="73" height="26" rx="13" fill="#F1F5FF" stroke="#CBD5E8"/><text x="237.5" y="223" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#1E293B">Supabase</text>
+<rect x="280" y="206" width="86" height="26" rx="13" fill="#F1F5FF" stroke="#CBD5E8"/><text x="323.0" y="223" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#1E293B">PostgreSQL</text>
+</g>
+<rect x="0.5" y="0.5" width="429" height="249" rx="16" fill="none" stroke="#D0D7E8"/>
+</svg>
