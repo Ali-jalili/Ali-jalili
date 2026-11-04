@@ -1,65 +1,100 @@
 <div align="center">
 
-# Ali Jalili
-
-**Frontend engineer · React, TypeScript, Next.js**
-
-I build full-stack products where the frontend is the hard part:
-multi-step forms, role-based dashboards, review workflows and server-state that stays correct.
+<img width="100%" alt="Ali Jalili, Frontend Developer" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F6FEB,100:7C3AED&height=200&section=header&text=Ali%20Jalili&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descSize=20&descAlignY=60" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ali--jalili-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali--jalili)
-[![Email](https://img.shields.io/badge/Email-ali.jalili.dev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ali.jalili.dev@gmail.com)
+**I build web applications around real workflows:**
+**authentication, role-based access, multi-step forms and review pipelines.**
+
+<br/>
+
+[![Open to work](https://img.shields.io/badge/Open%20to-Frontend%20roles-2EA043?style=for-the-badge)](mailto:ali.jalili.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ali--jalili-2F6FEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali--jalili)
+[![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.jalili.dev@gmail.com)
 
 </div>
 
----
+<!-- Portfolio website: add a badge here when it is live. -->
 
-## Selected work
+<br/>
 
-| Project | What it is | Built with | Links |
-|---|---|---|---|
-| **FailStack** | Peer-reviewed incident postmortem platform. Six-step authoring flow, review workflow (`DRAFT → PENDING_REVIEW → PUBLISHED`), searchable public archive. | Next.js 16 (App Router), React 19, TypeScript, Supabase, Zod, Vitest | [Live](https://failstack.vercel.app) · [Code](https://github.com/Ali-jalili/failstack) |
-| **NexusOS** | Multi-role agency dashboard (Admin / Client / Developer) with request lifecycle, project tracking and analytics. Access control enforced in the database with Row Level Security. | React, TanStack Query, Supabase, PostgreSQL | [Live](https://nexus-os-dashboard-seven.vercel.app) · [Code](https://github.com/Ali-jalili/NexusOS-Platform) |
-| **FormFlow** | Form builder with drag-and-drop fields, live preview, draft/publish workflow and a responses dashboard. | React, React Hook Form, TanStack Query, Supabase | [Live](https://form-flow-phi.vercel.app) · [Code](https://github.com/Ali-jalili/FormFlow) |
-| **DevDesk** | Workspace for organizing API requests, collections and environments. 240+ commits, feature-based architecture. | React, TypeScript, TanStack Query, Supabase | [Live](https://devdesk-six.vercel.app) · [Code](https://github.com/Ali-jalili/DevDesk) |
-
----
-
-## How I build
-
-```mermaid
-flowchart LR
-    A[Component] --> B[Custom hook]
-    B --> C[Service layer]
-    C --> D[(Supabase / PostgreSQL + RLS)]
+```ts
+const ali = {
+  role: "Frontend Developer",
+  stack: ["React", "TypeScript", "Next.js", "Supabase"],
+  builds: "workflow-heavy apps with auth, roles, forms and review flows",
+  lookingFor: "my first Frontend Developer role",
+} as const;
 ```
 
-- **Feature-based structure.** Code is grouped by product domain, not by file type.
-- **Validate at both boundaries.** Zod schemas on the client and again on the server.
-- **Server state belongs to a cache.** TanStack Query for fetching, invalidation and optimistic updates.
-- **Security lives in the database.** Row Level Security and RPCs, not only UI guards.
-- **Handle retries.** Idempotency keys so a double submit does not create two records.
+<br/>
 
----
+## Selected projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Ali-jalili/failstack"><img alt="FailStack" src="https://opengraph.githubassets.com/1/Ali-jalili/failstack" /></a>
+      <h3>FailStack</h3>
+      <p>Peer-reviewed platform for writing incident postmortems and publishing them to a searchable archive.</p>
+      <p><sub>Next.js App Router · six-step authoring flow · Zod validation on client and server · review decisions through a database RPC · Vitest tests</sub></p>
+      <p><a href="https://failstack.vercel.app"><b>Live demo →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Ali-jalili/NexusOS-Platform"><img alt="Nexus Agency OS" src="https://opengraph.githubassets.com/1/Ali-jalili/NexusOS-Platform" /></a>
+      <h3>Nexus Agency OS</h3>
+      <p>Agency management platform with separate portals for admins, clients and developers.</p>
+      <p><sub>Supabase Auth with three roles · Row Level Security and database triggers · request lifecycle with reject and resubmit · TanStack Query</sub></p>
+      <p><a href="https://nexus-os-dashboard-seven.vercel.app"><b>Live demo →</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Ali-jalili/DevDesk"><img alt="DevDesk" src="https://opengraph.githubassets.com/1/Ali-jalili/DevDesk" /></a>
+      <h3>DevDesk</h3>
+      <p>Workspace for organizing API requests, collections and environments during development.</p>
+      <p><sub>TypeScript domain modeling · feature-based architecture · Component → Hook → Service → Supabase data flow · protected routes</sub></p>
+      <p><a href="https://devdesk-six.vercel.app"><b>Live demo →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Ali-jalili/FormFlow"><img alt="FormFlow" src="https://opengraph.githubassets.com/1/Ali-jalili/FormFlow" /></a>
+      <h3>FormFlow</h3>
+      <p>Form builder with live preview and a draft/publish workflow.</p>
+      <p><sub>Drag-and-drop field ordering · JSON-based field configuration · dirty-state tracking · public submissions validated on the backend</sub></p>
+      <p><a href="https://form-flow-phi.vercel.app"><b>Live demo →</b></a></p>
+    </td>
+  </tr>
+</table>
+
+Every project has a demo login in its README.
+
+<br/>
+
+## Engineering focus
+
+| | |
+|:--|:--|
+| **Application architecture** | Feature-based modules, and a clear path from UI to data. |
+| **Type-safe development** | TypeScript domain models and schema validation at the boundaries. |
+| **Data-driven interfaces** | Server state with TanStack Query on top of PostgreSQL. |
+| **Auth and access control** | Roles, protected routes and Row Level Security. |
+
+<br/>
 
 ## Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+<p>
+  <img alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Vite, Supabase, PostgreSQL, Vitest, Git, GitHub" src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,supabase,postgres,vitest,git,github&theme=dark" />
+</p>
 
----
+<sub>Also: TanStack Query · React Router · React Hook Form · Zod · pnpm · ESLint · Vercel</sub>
 
-## Currently working on
+<br/>
+
+## Currently improving
 
 - End-to-end tests and CI for my projects
-- Database migrations in the repos, so every project runs from a clean clone
-- Deeper TypeScript patterns and production-readiness
+- Versioned database migrations, so each project runs from a clean clone
+
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F6FEB,100:7C3AED&height=100&section=footer" />
