@@ -1,107 +1,65 @@
 <div align="center">
 
-# 👋 Hi, I'm Ali Jalili
+# Ali Jalili
 
-### Frontend Developer building real-world applications with React & TypeScript ⚛️
+**Frontend engineer · React, TypeScript, Next.js**
 
-<br/>
-
-I design and build frontend systems with a focus on
-clean architecture, scalable components, and reliable data flow.
+I build full-stack products where the frontend is the hard part:
+multi-step forms, role-based dashboards, review workflows and server-state that stays correct.
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Building+React+applications;Designing+maintainable+frontend+systems;Turning+complex+problems+into+solutions" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/ali--jalili">
-  <img src="https://img.shields.io/badge/LinkedIn-Ali%20Jalili-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ali.jalili.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ali--jalili-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali--jalili)
+[![Email](https://img.shields.io/badge/Email-ali.jalili.dev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ali.jalili.dev@gmail.com)
 
 </div>
 
+---
+
+## Selected work
+
+| Project | What it is | Built with | Links |
+|---|---|---|---|
+| **FailStack** | Peer-reviewed incident postmortem platform. Six-step authoring flow, review workflow (`DRAFT → PENDING_REVIEW → PUBLISHED`), searchable public archive. | Next.js 16 (App Router), React 19, TypeScript, Supabase, Zod, Vitest | [Live](https://failstack.vercel.app) · [Code](https://github.com/Ali-jalili/failstack) |
+| **NexusOS** | Multi-role agency dashboard (Admin / Client / Developer) with request lifecycle, project tracking and analytics. Access control enforced in the database with Row Level Security. | React, TanStack Query, Supabase, PostgreSQL | [Live](https://nexus-os-dashboard-seven.vercel.app) · [Code](https://github.com/Ali-jalili/NexusOS-Platform) |
+| **FormFlow** | Form builder with drag-and-drop fields, live preview, draft/publish workflow and a responses dashboard. | React, React Hook Form, TanStack Query, Supabase | [Live](https://form-flow-phi.vercel.app) · [Code](https://github.com/Ali-jalili/FormFlow) |
+| **DevDesk** | Workspace for organizing API requests, collections and environments. 240+ commits, feature-based architecture. | React, TypeScript, TanStack Query, Supabase | [Live](https://devdesk-six.vercel.app) · [Code](https://github.com/Ali-jalili/DevDesk) |
 
 ---
 
-## 🧠 Engineering Mindset
+## How I build
 
-I believe good frontend development is not only about writing components.
+```mermaid
+flowchart LR
+    A[Component] --> B[Custom hook]
+    B --> C[Service layer]
+    C --> D[(Supabase / PostgreSQL + RLS)]
+```
 
-It is about understanding the problem, designing clear data flow,
-building maintainable systems, and improving through iteration.
-
-My focus:
-
-- Clean frontend architecture
-- Reusable component systems
-- Predictable state and data management
-- Problem solving through debugging
-
-
----
-
-## ⚛️ Tech Stack
-
-### Frontend
-
-React • TypeScript • JavaScript  
-Tailwind CSS • Vite
-
-
-### Data & Backend
-
-TanStack Query • Supabase • PostgreSQL
-
-
-### Tools
-
-Git • GitHub • VS Code
-
+- **Feature-based structure.** Code is grouped by product domain, not by file type.
+- **Validate at both boundaries.** Zod schemas on the client and again on the server.
+- **Server state belongs to a cache.** TanStack Query for fetching, invalidation and optimistic updates.
+- **Security lives in the database.** Row Level Security and RPCs, not only UI guards.
+- **Handle retries.** Idempotency keys so a double submit does not create two records.
 
 ---
 
-## 🚀 Featured Projects
+## Stack
 
-
-### 🔹 DevDesk
-
-**Developer Workflow Workspace**
-
-A React + TypeScript application focused on
-workflow management, API interactions, and scalable frontend architecture.
-
-
-### 🔹 FormFlow
-
-**Dynamic Form Builder Platform**
-
-A product-focused application built around
-complex UI state, reusable components, and form management.
-
-
-### 🔹 NexusOS
-
-**Agency Management Platform**
-
-A full-stack application with authentication,
-database integration, and business workflows.
-
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
 ---
 
-## 📌 What I'm Currently Improving
+## Currently working on
 
-- Advanced TypeScript patterns
-- Frontend architecture
-- Testing strategies
-- Production-ready development practices
-
-
----
-
-
+- End-to-end tests and CI for my projects
+- Database migrations in the repos, so every project runs from a clean clone
+- Deeper TypeScript patterns and production-readiness
