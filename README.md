@@ -1,3 +1,11 @@
+<img width="880" height="232" alt="stack" src="https://github.com/user-attachments/assets/d0a1b68b-8efd-40fe-ab05-37d4bba0fb93" />
+<img width="880" height="70" alt="footer" src="https://github.com/user-attachments/assets/802f766b-6a33-40b7-a22f-70f0320a5146" />
+<img width="880" height="150" alt="focus" src="https://github.com/user-attachments/assets/ea3f6e11-2420-4a21-b7b7-d20eeba3ab50" />
+<img width="430" height="250" alt="card-nexus" src="https://github.com/user-attachments/assets/4947e4e7-64e7-4fd9-a865-77b1ead0dadd" />
+<img width="430" height="250" alt="card-formflow" src="https://github.com/user-attachments/assets/38126c9b-f5a0-4a71-8fa6-61793a8f3a7b" />
+<img width="430" height="250" alt="card-failstack" src="https://github.com/user-attachments/assets/5d6e9cb8-166b-4c99-b849-aebd9cbba180" />
+<img width="430" height="250" alt="card-devdesk" src="https://github.com/user-attachments/assets/af4349a1-6402-4f9d-a1ae-cce30fca1394" />
+<img width="880" height="280" alt="banner" src="https://github.com/user-attachments/assets/9a385a58-32d6-4ded-bc9b-d02975d54224" />
 <div align="center">
 
 <img src="./assets/banner.svg" width="100%" alt="Ali Jalili, Frontend Developer. React, TypeScript, Next.js. Open to Frontend roles." />
