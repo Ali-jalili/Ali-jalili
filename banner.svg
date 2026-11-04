@@ -9,20 +9,18 @@
 <g clip-path="url(#clip)">
 <rect width="880" height="280" fill="url(#bg)"/>
 <rect width="880" height="280" fill="url(#grid)"/>
-<circle cx="120" cy="50" r="120" fill="#2F6FEB" opacity="0.3" filter="url(#blur)"><animate attributeName="cx" values="120;260;120" dur="9s" repeatCount="indefinite"/></circle>
-<circle cx="760" cy="260" r="130" fill="#7C3AED" opacity="0.28" filter="url(#blur)"><animate attributeName="cy" values="260;190;260" dur="11s" repeatCount="indefinite"/></circle>
-<circle cx="520" cy="30" r="80" fill="#22D3EE" opacity="0.18" filter="url(#blur)"><animate attributeName="cx" values="520;640;520" dur="13s" repeatCount="indefinite"/></circle>
+<circle cx="120" cy="50" r="120" fill="#2F6FEB" opacity="0.3" filter="url(#blur)"/>
+<circle cx="760" cy="260" r="130" fill="#7C3AED" opacity="0.28" filter="url(#blur)"/>
+<circle cx="520" cy="30" r="80" fill="#22D3EE" opacity="0.18" filter="url(#blur)"/>
 <rect width="880" height="3" fill="url(#acc)"/>
 
 <text x="48" y="72" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" letter-spacing="4" fill="#0E7490">FRONTEND DEVELOPER</text>
 <text x="46" y="140" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="800" fill="#0F172A">Ali <tspan fill="url(#acc)">Jalili</tspan></text>
 <rect x="48" y="156" width="56" height="3" rx="1.5" fill="url(#acc)"/>
-<text x="48" y="196" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="19" fill="#475569" opacity="0">React · TypeScript · Next.js<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.293;0.333;1" dur="12s" repeatCount="indefinite"/></text>
-<text x="48" y="196" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="19" fill="#475569" opacity="0">Auth · Roles · Forms · Review flows<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.333;0.373;0.627;0.667;1" dur="12s" repeatCount="indefinite"/></text>
-<text x="48" y="196" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="19" fill="#475569" opacity="0">Looking for my first Frontend role<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.667;0.707;0.97;1" dur="12s" repeatCount="indefinite"/></text>
+<text x="48" y="196" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="19" fill="#475569">React · TypeScript · Next.js</text>
 
 <rect x="48" y="226" width="196" height="30" rx="15" fill="#DCFCE7" stroke="#86EFAC"/>
-<circle cx="68" cy="241" r="4" fill="#16A34A"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="68" cy="241" r="4" fill="#16A34A"/>
 <text x="82" y="245" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#166534">Open to Frontend roles</text>
 
 <rect x="452" y="44" width="380" height="192" rx="14" fill="#FFFFFF" stroke="#D0D7E8"/>
