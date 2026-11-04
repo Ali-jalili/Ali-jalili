@@ -20,7 +20,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Ali-jalili/DevDesk"><img src="./card-devdesk.svg" width="100%" alt="DevDesk: API workflow workspace" /></a>
-      <p align="center"><a href="https://devdesk-six.vercel.app"><b>Live demo →</b></a></p>
+      <p align="center"><a href="https://devdesk-omega.vercel.app"><b>Live demo →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Ali-jalili/FormFlow"><img src="./card-formflow.svg" width="100%" alt="FormFlow: form builder with draft and publish workflow" /></a>
