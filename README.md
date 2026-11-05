@@ -9,12 +9,12 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Ali-jalili/DevDesk"><img src="./card-devdesk.svg" width="100%" alt="DevDesk: API workflow workspace" /></a>
-      <p align="center"><a href="https://devdesk-omega.vercel.app"><b>Live demo →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
       <a href="https://github.com/Ali-jalili/failstack"><img src="./card-failstack.svg" width="100%" alt="FailStack: peer-reviewed incident postmortem platform" /></a>
       <p align="center"><a href="https://failstack.vercel.app"><b>Live demo →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Ali-jalili/DevDesk"><img src="./card-devdesk.svg" width="100%" alt="DevDesk: API workflow workspace" /></a>
+      <p align="center"><a href="https://devdesk-omega.vercel.app"><b>Live demo →</b></a></p>
     </td>
   </tr>
   <tr>
