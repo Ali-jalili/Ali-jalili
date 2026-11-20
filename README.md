@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Ali Jalili — Frontend Developer" />
+<img src="./banner.svg" width="100%" alt="Ali Jalili — Building software with intention" />
 
 <br/>
 
-My GitHub is where I turn curiosity about software into practical work. I build applications to explore ideas, work through real implementation challenges, and understand the decisions that shape how software is put together.
+This profile is a collection of things I've built, explored, and learned along the way.
 
-Rather than following a fixed recipe, I enjoy exploring different approaches, understanding their trade-offs, and learning from the process of building something functional.
+I use personal projects to work through ideas beyond the initial implementation — exploring how features fit together, how different approaches affect an application, and what it takes to turn individual pieces into a coherent product.
+
+Each repository represents a different set of challenges and decisions, from designing application workflows to handling data, access, and complex interactions.
+
+I'm interested in contributing to products where thoughtful engineering, collaboration, and continuous improvement matter.
 
 <br/>
 
@@ -15,7 +19,7 @@ Rather than following a fixed recipe, I enjoy exploring different approaches, un
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Ali-jalili/failstack"><img src="./card-failstack.svg" width="100%" alt="FailStack — peer-reviewed incident postmortem platform" /></a>
+      <a href="https://github.com/Ali-jalili/failstack"><img src="./card-failstack.svg" width="100%" alt="FailStack — incident postmortem platform" /></a>
       <p align="center"><a href="https://failstack.vercel.app"><b>Live demo →</b></a></p>
     </td>
     <td width="50%" valign="top">
@@ -25,11 +29,11 @@ Rather than following a fixed recipe, I enjoy exploring different approaches, un
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Ali-jalili/FormFlow"><img src="./card-formflow.svg" width="100%" alt="FormFlow — visual form builder with draft and publish workflow" /></a>
+      <a href="https://github.com/Ali-jalili/FormFlow"><img src="./card-formflow.svg" width="100%" alt="FormFlow — visual form builder" /></a>
       <p align="center"><a href="https://form-flow-phi.vercel.app"><b>Live demo →</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Ali-jalili/NexusOS-Platform"><img src="./card-nexus.svg" width="100%" alt="Nexus Agency OS — multi-role agency management platform" /></a>
+      <a href="https://github.com/Ali-jalili/NexusOS-Platform"><img src="./card-nexus.svg" width="100%" alt="Nexus Agency OS — agency management platform" /></a>
       <p align="center"><a href="https://nexus-os-dashboard-seven.vercel.app"><b>Live demo →</b></a></p>
     </td>
   </tr>
@@ -47,7 +51,7 @@ Rather than following a fixed recipe, I enjoy exploring different approaches, un
 
 ## Technologies & Tools
 
-<img src="./stack.svg" width="100%" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Vite, React Router, React Hook Form, Supabase, PostgreSQL, TanStack Query, Zod, Git, GitHub, pnpm, Vitest, ESLint and Vercel." />
+<img src="./stack.svg" width="100%" alt="Technologies and tools used across my projects" />
 
 <br/>
 
