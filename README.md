@@ -1,14 +1,14 @@
- <div align="center">
+<div align="center">
 
 <img src="./banner.svg" width="100%" alt="Ali Jalili — Frontend Developer" />
 
 <br/>
 
-I'm a Frontend Developer focused on understanding how software works beyond the interface.
+I learn by building, exploring how applications work, and working through the challenges that come with turning an idea into a working product.
 
-I enjoy building web applications and thinking through the engineering decisions behind them — from understanding requirements and structuring components to managing data flow and designing reliable, maintainable solutions.
+Personal projects have been an important part of that process. They give me room to explore different approaches, make technical decisions, understand their trade-offs, and improve through practical experience.
 
-Through hands-on projects, I've worked with React, Next.js, TypeScript, and modern frontend technologies, exploring application architecture, authentication, state management, and data-driven features.
+The projects below reflect that process — each built around a different problem, workflow, and set of engineering challenges.
 
 <br/>
 
@@ -37,34 +37,30 @@ Through hands-on projects, I've worked with React, Next.js, TypeScript, and mode
   </tr>
 </table>
 
-<p align="center"><sub>Explore the source code through each project card. Demo access details are available in the individual project READMEs.</sub></p>
+<p align="center"><sub>Explore each project's source code through its card. Demo access details are available in the individual project READMEs.</sub></p>
 
 <br/>
 
 ## Engineering Focus
 
-<img src="./focus.svg" width="100%" alt="Engineering focus: architecture, type safety, data-driven UI, authentication and access control" />
+<img src="./focus.svg" width="100%" alt="Architecture, type safety, data-driven UI, authentication and access control" />
 
 <br/>
 
 ## Technologies & Tools
 
-<img src="./stack.svg" width="100%" alt="Technologies and tools: TypeScript, JavaScript, React, Next.js, Tailwind CSS, Vite, React Router, React Hook Form, Supabase, PostgreSQL, TanStack Query, Zod, Git, GitHub, pnpm, Vitest, ESLint and Vercel." />
+<img src="./stack.svg" width="100%" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Vite, React Router, React Hook Form, Supabase, PostgreSQL, TanStack Query, Zod, Git, GitHub, pnpm, Vitest, ESLint and Vercel." />
 
 <br/>
 
-## Let's Connect
-
-I'm open to frontend development opportunities where I can contribute to real products, collaborate with engineering teams, and grow through meaningful engineering challenges.
+## Connect
 
 <p align="center">
-  <a href="mailto:ali.jalili.dev@gmail.com">Email</a>
+  <a href="https://ali-jalili.vercel.app/">Portfolio</a>
   ·
   <a href="https://www.linkedin.com/in/ali--jalili">LinkedIn</a>
   ·
-  <a href="https://github.com/Ali-jalili">GitHub</a>
-  ·
-  <a href="https://ali-jalili.vercel.app/">Portfolio</a>
+  <a href="mailto:ali.jalili.dev@gmail.com">Email</a>
 </p>
 
 <br/>
