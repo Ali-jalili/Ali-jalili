@@ -1,16 +1,16 @@
-<div align="center">
+ <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Ali Jalili — Building software with intention" />
+<img src="./banner.svg" width="100%" alt="Ali Jalili — From building interfaces to understanding the systems behind them" />
 
 <br/>
 
-This profile is a collection of things I've built, explored, and learned along the way.
+I'm a Frontend Developer who enjoys building web applications and understanding the engineering behind them.
 
-I use personal projects to work through ideas beyond the initial implementation — exploring how features fit together, how different approaches affect an application, and what it takes to turn individual pieces into a coherent product.
+As I've worked on more complete applications, my interest has expanded beyond the interface — exploring how components fit together, how data flows through an application, how access is managed, and how different parts work together to support real workflows.
 
-Each repository represents a different set of challenges and decisions, from designing application workflows to handling data, access, and complex interactions.
+I use personal projects to explore these challenges, make deliberate technical decisions, and strengthen my understanding through hands-on implementation.
 
-I'm interested in contributing to products where thoughtful engineering, collaboration, and continuous improvement matter.
+I'm currently looking for a Junior Frontend Developer opportunity where I can contribute to real products, collaborate with other developers, and continue growing as an engineer.
 
 <br/>
 
