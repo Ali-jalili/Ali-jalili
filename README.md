@@ -4,11 +4,9 @@
 
 <br/>
 
-I learn by building, exploring how applications work, and working through the challenges that come with turning an idea into a working product.
+My GitHub is where I turn curiosity about software into practical work. I build applications to explore ideas, work through real implementation challenges, and understand the decisions that shape how software is put together.
 
-Personal projects have been an important part of that process. They give me room to explore different approaches, make technical decisions, understand their trade-offs, and improve through practical experience.
-
-The projects below reflect that process — each built around a different problem, workflow, and set of engineering challenges.
+Rather than following a fixed recipe, I enjoy exploring different approaches, understanding their trade-offs, and learning from the process of building something functional.
 
 <br/>
 
@@ -37,7 +35,7 @@ The projects below reflect that process — each built around a different proble
   </tr>
 </table>
 
-<p align="center"><sub>Explore each project's source code through its card. Demo access details are available in the individual project READMEs.</sub></p>
+<p align="center"><sub>Explore the source code through each project card. Demo access details are available in the individual project READMEs.</sub></p>
 
 <br/>
 
